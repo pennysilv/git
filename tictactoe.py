@@ -89,5 +89,3 @@ while True:
             print('Победили нолики!')
         break
     switch_player()
-
-### lol
